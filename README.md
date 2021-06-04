@@ -1,6 +1,6 @@
 <h1>Hewo! UwU <img src="https://cdn.discordapp.com/emojis/622096719332769793.gif" height="35px"></h1>
 
-<h3>I am <a href="dis.gd/threads">KittyKart</a> people also call me CAT or Nik!<br>I like coding a lot! <img src="https://cdn.discordapp.com/emojis/815903012924293120.gif" height="20px"></h3>
+<h3>I am <a href="https://dis.gd/threads">KittyKart</a> people also call me CAT or Nik!<br>I like coding a lot! <img src="https://cdn.discordapp.com/emojis/815903012924293120.gif" height="20px"></h3>
 
 <h2>Some fun facts about me!</h2>
 
