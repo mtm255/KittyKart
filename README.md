@@ -14,7 +14,7 @@
 <h2>My Projects</h2>
 
 <ul>
-    <li><a href="https://github.com/KittyKart/lightning">Lightning</a> - A WIP music bot for Discord</li>
+    <li><a href="https://github.com/KittyKart/lightning">Lightning</a> - A WIP moderation bot for Discord</li>
 </ul>
 
 <h2>My Stats</h2>
