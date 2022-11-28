@@ -5,16 +5,13 @@
 <h2>Some fun facts about me!</h2>
 
 <ul>
-    <li>moaning uwu randomly in voice chats</li>
-    <li>moaning uwu randomly in voice chats</li>
-    <li>moaning uwu randomly in voice chats</li>
-    <li>moaning uwu randomly in voice chats</li>
+    <li> i am a professional dumbass.</li>
 </ul>
 
 <h2>My Projects</h2>
 
 <ul>
-    <li><a href="https://github.com/KittyKart/lightning">Lightning</a> - A WIP moderation bot for Discord</li>
+    <li><a href="https://github.com/KittyKart/lightning">Lightning</a> - A WIP multi-purpose bot for Discord</li>
 </ul>
 
 <h2>My Stats</h2>
@@ -31,4 +28,4 @@
 
 <h2>How to contact me?</h2>
 
-<p>You can reach me thru Discord: <a href=""><b>CAT#6969</b></a></p>
+<p>You can reach me thru Discord: <a href=""><b>mtm#1161</b></a></p>
