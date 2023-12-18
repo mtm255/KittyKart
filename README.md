@@ -1,11 +1,11 @@
-<h1>Hewo! UwU <img src="https://cdn.discordapp.com/emojis/622096719332769793.gif" height="35px"></h1>
+<h1>Hello! <img src="https://cdn.discordapp.com/emojis/622096719332769793.gif" height="35px"></h1>
 
 <h3>I am <a href="dis.gd/threads">KittyKart</a> people also call me CAT or Mtm!<br>I like coding a lot! <img src="https://cdn.discordapp.com/emojis/815903012924293120.gif" height="20px"></h3>
 
 <h2>Some fun facts about me!</h2>
 
 <ul>
-    <li> i am a professional dumbass.</li>
+    <li> i am a full-time highschool student and I also pursue music and technology on the side.</li>
 </ul>
 
 <h2>My Projects</h2>
@@ -28,4 +28,4 @@
 
 <h2>How to contact me?</h2>
 
-<p>You can reach me thru Discord: <a href=""><b>mtm#1161</b></a></p>
+<p>You can reach me thru Discord: <a href=""><b>mtm25</b></a></p>
